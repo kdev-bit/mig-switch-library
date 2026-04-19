@@ -49,7 +49,7 @@ export function GameList({ games, title }: Props) {
   }, [games, updateButtons]);
 
   if (!games.length) {
-    return <p>Nessun gioco trovato.</p>;
+    return <p>No games found.</p>;
   }
 
   return (
