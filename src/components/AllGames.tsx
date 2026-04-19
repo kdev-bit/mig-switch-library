@@ -40,7 +40,7 @@ export function AllGames({ games, title }: Props) {
     }, [sortedGames, showAll]);
 
     if (!games.length) {
-        return <p>Nessun gioco trovato.</p>;
+        return <p>No games found.</p>;
     }
 
     return (
