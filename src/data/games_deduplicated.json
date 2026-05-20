@@ -192,7 +192,7 @@
   {
     "name": "Agatha Christie - The ABC Murders",
     "released": "2016",
-    "rating": 6.7,
+    "rating": 6.8,
     "background_image": "https://media.rawg.io/media/games/c15/c1504d3d18ba8011499d37b6d57261f8.jpg",
     "genres": [
       "Action",
@@ -405,7 +405,7 @@
   {
     "name": "ARK: Survival Evolved",
     "released": "2015",
-    "rating": 6.1,
+    "rating": 6.2,
     "background_image": "https://media.rawg.io/media/games/58a/58ac7f6569259dcc0b60b921869b19fc.jpg",
     "genres": [
       "Action",
@@ -655,7 +655,7 @@
   {
     "name": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land",
     "released": "2025",
-    "rating": 6.7,
+    "rating": 6.9,
     "background_image": "https://media.rawg.io/media/games/887/887f650c62d7383095a635cc31fb4d36.jpg",
     "genres": [
       "Action",
@@ -2061,7 +2061,7 @@
   {
     "name": "Dark Souls: Remastered",
     "released": "2018",
-    "rating": 8.9,
+    "rating": 9,
     "background_image": "https://media.rawg.io/media/games/29c/29c6c21cc0c78cff6f45d23631cc82f4.jpg",
     "genres": [
       "Action",
@@ -2367,7 +2367,7 @@
   {
     "name": "Digimon World: Next Order",
     "released": "2017",
-    "rating": 5.8,
+    "rating": 5.9,
     "background_image": "https://media.rawg.io/media/games/812/812320dbc2acc3b1c4ac9883d1c1456e.jpg",
     "genres": [
       "RPG"
@@ -3011,7 +3011,7 @@
   {
     "name": "EA SPORTS FC 25",
     "released": "2024",
-    "rating": 6.6,
+    "rating": 6.7,
     "background_image": "https://media.rawg.io/media/screenshots/928/9289953b354ac641e3f1b83d43e18521.jpg",
     "genres": [
       "Simulation",
@@ -3021,7 +3021,7 @@
   {
     "name": "EA SPORTS FC 26",
     "released": "2025",
-    "rating": 6.2,
+    "rating": 6.5,
     "background_image": "https://media.rawg.io/media/screenshots/70f/70fb740261ef152d0d3392a9a306c9ca.jpg",
     "genres": [
       "Simulation",
@@ -3246,7 +3246,7 @@
   {
     "name": "Expeditions: A MudRunner Game",
     "released": "2024",
-    "rating": 6.7,
+    "rating": 6.8,
     "background_image": "https://media.rawg.io/media/games/587/58781f4ab6f40a1bfa59f71e0e6573c4.jpg",
     "genres": [
       "Adventure",
@@ -4017,7 +4017,7 @@
   {
     "name": "Goat Simulator 3",
     "released": "2022",
-    "rating": 7.8,
+    "rating": 7.9,
     "background_image": "https://media.rawg.io/media/games/936/936627d24f7864a00adf3156b41ff314.jpg",
     "genres": [
       "Action",
@@ -4050,7 +4050,7 @@
   {
     "name": "Grand Theft Auto III: The Definitive Edition",
     "released": "2021",
-    "rating": 6.8,
+    "rating": 6.9,
     "background_image": "https://media.rawg.io/media/games/9db/9db7575938031b505ed7cdc2067168ce.jpg",
     "genres": [
       "Action",
@@ -4073,7 +4073,7 @@
   {
     "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
     "released": "2021",
-    "rating": 6.2,
+    "rating": 6.3,
     "background_image": "https://media.rawg.io/media/games/ae3/ae3ba4e4d73ab8ec9dd6bfd8ab9d4efb.jpg",
     "genres": [
       "Action",
@@ -4090,7 +4090,7 @@
   {
     "name": "Graveyard Keeper",
     "released": "2018",
-    "rating": 7.5,
+    "rating": 7.4,
     "background_image": "https://media.rawg.io/media/screenshots/066/066eb1b7a3f332b8089645fbf8c3ebdc.jpg",
     "genres": [
       "Adventure",
@@ -4837,12 +4837,11 @@
     ]
   },
   {
-    "name": "Kamen Rider: Super Climax Heroes",
-    "released": "2012",
+    "name": "Kamen Rider: Climax Heroes",
+    "released": "2009",
     "rating": 0,
-    "background_image": "https://media.rawg.io/media/games/7f8/7f8310c3c138389d4e96275133f4c70d.jpg",
+    "background_image": "https://media.rawg.io/media/screenshots/f75/f75e1ad78a12f7806cbbb2c7731fdc5d.jpg",
     "genres": [
-      "Action",
       "Fighting"
     ]
   },
@@ -4976,7 +4975,7 @@
   {
     "name": "King's Bounty II",
     "released": "2021",
-    "rating": 6.1,
+    "rating": 6.2,
     "background_image": "https://media.rawg.io/media/games/a12/a12baacbf2430b2f6d8a25ea125ab543.jpg",
     "genres": [
       "RPG",
@@ -5528,7 +5527,7 @@
   {
     "name": "Lovers in a Dangerous Spacetime",
     "released": "2015",
-    "rating": 7.2,
+    "rating": 7.1,
     "background_image": "https://media.rawg.io/media/games/b47/b47da312357f548ceeb3a4d00021cd1d.jpg",
     "genres": [
       "Action",
@@ -5673,7 +5672,7 @@
   {
     "name": "Mario Kart 8 Deluxe",
     "released": "2017",
-    "rating": 9.2,
+    "rating": 8.9,
     "background_image": "https://media.rawg.io/media/games/6f8/6f846e941c78cfbabe53cd67e55ced83.jpg",
     "genres": [
       "Racing"
@@ -6286,7 +6285,7 @@
   {
     "name": "Mortal Kombat 1",
     "released": "2023",
-    "rating": 7.2,
+    "rating": 7.3,
     "background_image": "https://media.rawg.io/media/games/155/155087d7b9c1225cda0ab9e586b6374d.jpg",
     "genres": [
       "Action",
@@ -6396,7 +6395,7 @@
   {
     "name": "Mutant Year Zero: Road to Eden",
     "released": "2018",
-    "rating": 7.5,
+    "rating": 7.4,
     "background_image": "https://media.rawg.io/media/games/fcc/fccc143096ea188a7fb7daab52d26e35.jpg",
     "genres": [
       "Adventure",
@@ -6846,7 +6845,7 @@
   {
     "name": "Ninja Gaiden: Ragebound",
     "released": "2025",
-    "rating": 8.2,
+    "rating": 8.1,
     "background_image": "https://media.rawg.io/media/games/40c/40c911198ddaf503afa3a9674199b906.jpg",
     "genres": [
       "Action",
@@ -7015,7 +7014,7 @@
   {
     "name": "Octopath Traveler",
     "released": "2018",
-    "rating": 7.8,
+    "rating": 7.9,
     "background_image": "https://media.rawg.io/media/games/e23/e2345c839b323a94b6811705fda5af73.jpg",
     "genres": [
       "Adventure",
@@ -7245,7 +7244,7 @@
   {
     "name": "Outward Definitive Edition",
     "released": "2019",
-    "rating": 6.6,
+    "rating": 6.7,
     "background_image": "https://media.rawg.io/media/games/f7e/f7e1219e49e1e77cf1365841d2947656.jpg",
     "genres": [
       "Action",
@@ -7747,7 +7746,7 @@
   {
     "name": "Pokémon Legends: Z-A",
     "released": "2025",
-    "rating": 6.7,
+    "rating": 6.4,
     "background_image": "https://media.rawg.io/media/games/845/84559a11f5ee0c73f23a4e3016cf7cba.jpg",
     "genres": [
       "Adventure",
@@ -8081,7 +8080,7 @@
   {
     "name": "Remothered: Broken Porcelain",
     "released": "2020",
-    "rating": 4.6,
+    "rating": 4.5,
     "background_image": "https://media.rawg.io/media/games/c36/c367a9d7253a0a883a346a018e33f1a3.jpg",
     "genres": [
       "Action",
@@ -8091,7 +8090,7 @@
   {
     "name": "Remothered: Tormented Fathers",
     "released": "2018",
-    "rating": 6.8,
+    "rating": 6.7,
     "background_image": "https://media.rawg.io/media/games/cda/cdafc6d93c50252d4d2df2d8f4607ace.jpeg",
     "genres": [
       "Action",
@@ -8322,7 +8321,7 @@
     ]
   },
   {
-    "name": "Root Letter: Last Answer",
+    "name": "√ Root Letter: Last Answer",
     "released": "2019",
     "rating": 0,
     "background_image": "https://media.rawg.io/media/screenshots/4d9/4d9b21c07758bb0088604f3d6775dbcc.jpg",
@@ -8718,7 +8717,7 @@
   {
     "name": "Shinobi: Art of Vengeance",
     "released": "2025",
-    "rating": 7.3,
+    "rating": 7.4,
     "background_image": "https://media.rawg.io/media/games/315/315d9e69af46bd985ed2dee284a8c0ac.jpg",
     "genres": [
       "Action",
@@ -8970,7 +8969,7 @@
   {
     "name": "Sonic Forces",
     "released": "2017",
-    "rating": 5.6,
+    "rating": 5.7,
     "background_image": "https://media.rawg.io/media/games/0e9/0e9d75008321d640e4a14a8b5e322620.jpg",
     "genres": [
       "Action",
@@ -9562,6 +9561,15 @@
     ]
   },
   {
+    "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
+    "released": "2023",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/c88/c8840488aaf64680ace8b71239e7d78e.jpg",
+    "genres": [
+      "RPG"
+    ]
+  },
+  {
     "name": "Sumikko gurashi-Puzzling Ways",
     "released": "2017",
     "rating": 0,
@@ -9694,7 +9702,7 @@
   {
     "name": "Super Mario Party Jamboree",
     "released": "2024",
-    "rating": 8.7,
+    "rating": 8.8,
     "background_image": "https://media.rawg.io/media/games/66f/66fcdc18586ac8c0aa17b2c83fee558d.jpg",
     "genres": [
       "Adventure",
@@ -9704,7 +9712,7 @@
   {
     "name": "Super Mario RPG: Legend of the Seven Stars",
     "released": "1996",
-    "rating": 8.7,
+    "rating": 8.8,
     "background_image": "https://media.rawg.io/media/games/384/3848abcd66c93552e46647c3db985f30.jpg",
     "genres": [
       "RPG"
@@ -9911,7 +9919,7 @@
   {
     "name": "Tactics Ogre: Reborn",
     "released": "2022",
-    "rating": 7.3,
+    "rating": 7.4,
     "background_image": "https://media.rawg.io/media/games/2a5/2a558eb173e355b55765b61738d7b644.jpg",
     "genres": [
       "Adventure",
@@ -10440,7 +10448,7 @@
   {
     "name": "The Legend of Zelda: Tears of the Kingdom",
     "released": "2023",
-    "rating": 8.8,
+    "rating": 8.7,
     "background_image": "https://media.rawg.io/media/games/556/55684bfd048706f4266d331d70050b37.jpg",
     "genres": [
       "Action",
@@ -10601,7 +10609,7 @@
   {
     "name": "The World Ends with You: Final Remix",
     "released": "2018",
-    "rating": 8.1,
+    "rating": 8,
     "background_image": "https://media.rawg.io/media/screenshots/021/0211232346867e8a99ea443c839c3e8c.jpg",
     "genres": [
       "Action",
@@ -10737,7 +10745,7 @@
   {
     "name": "Tony Hawk's Pro Skater 3 + 4",
     "released": "2025",
-    "rating": 6.4,
+    "rating": 6,
     "background_image": "https://media.rawg.io/media/games/fb5/fb5453ec554d23caa221a6c8c4fd9279.jpg",
     "genres": [
       "Simulation",
@@ -10794,7 +10802,7 @@
   {
     "name": "Trails in the Sky 1st Chapter",
     "released": "2025",
-    "rating": 0,
+    "rating": 9,
     "background_image": "https://media.rawg.io/media/screenshots/aae/aaee2d143052bfafe7cae5806587485d.jpg",
     "genres": [
       "Action",
@@ -11353,7 +11361,7 @@
   {
     "name": "Secret of Evermore",
     "released": "1995",
-    "rating": 8.9,
+    "rating": 8.8,
     "background_image": "https://media.rawg.io/media/games/226/226b27282b234c73cb38916e1a0644fa.jpg",
     "genres": [
       "RPG"
@@ -12033,7 +12041,7 @@
   {
     "name": "Zombie Army 4: Dead War",
     "released": "2020",
-    "rating": 6.7,
+    "rating": 6.8,
     "background_image": "https://media.rawg.io/media/games/c70/c7070c9ee7e1d4493feb446dd7a10309.jpg",
     "genres": [
       "Action",
@@ -12425,7 +12433,7 @@
   {
     "name": "de Blob",
     "released": "2008",
-    "rating": 7.7,
+    "rating": 7.8,
     "background_image": "https://media.rawg.io/media/screenshots/b53/b5369b0c2b182122a65a868aa2aaae01.jpg",
     "genres": [
       "Action",
@@ -13196,7 +13204,7 @@
   {
     "name": "Spellcaster University",
     "released": "2021",
-    "rating": 6.8,
+    "rating": 6.9,
     "background_image": "https://media.rawg.io/media/screenshots/e94/e944e5ffef976be4b930ddb16febe10e.jpg",
     "genres": [
       "Strategy",
@@ -13616,6 +13624,495 @@
     "genres": [
       "Action",
       "RPG"
+    ]
+  },
+  {
+    "name": "A Hat in Time",
+    "released": "2017",
+    "rating": 8.6,
+    "background_image": "https://media.rawg.io/media/games/594/5949baae74fe9e399adbce0c44e28783.jpg",
+    "genres": [
+      "Action",
+      "Platformer"
+    ]
+  },
+  {
+    "name": "A Tiny Sticker Tale",
+    "released": "2023",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/8c7/8c7b3a71d95330962265b599f5a80955.jpg",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Gatekeeper: Infinity",
+    "released": "2023",
+    "rating": 5,
+    "background_image": "https://media.rawg.io/media/screenshots/b3f/b3f9b2e55ef52a1c2afdb7038a279d39.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Simulation",
+      "Casual",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Amber Isle",
+    "released": null,
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/ed7/ed7be40b1ada25970548d925f7f0dbc3.jpg",
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Simulation",
+      "Casual",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Animal Well",
+    "released": "2024",
+    "rating": 8.6,
+    "background_image": "https://media.rawg.io/media/games/f0a/f0ae5322f985cda91e871adcfcb91f6f.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Arkanoid: Eternal Battle",
+    "released": "2022",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/games/91a/91a9d6d78dede9edc7e0b2ea33e3bc9f.jpg",
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Atelier Resleriana: The Red Alchemist & the White Guardian",
+    "released": "2025",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/be8/be86f0185ed95b5e80ad32a51852819c.jpg",
+    "genres": [
+      "RPG"
+    ]
+  },
+  {
+    "name": "Bendy and the Dark Revival",
+    "released": "2022",
+    "rating": 8.4,
+    "background_image": "https://media.rawg.io/media/games/84f/84f1d4f189e5dd3772d2c01aee4e4922.jpg",
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  {
+    "name": "BLUE REFLECTION: Second Light",
+    "released": "2021",
+    "rating": 6.9,
+    "background_image": "https://media.rawg.io/media/games/624/62467eb1e6bba1d6d3b098a96dd4153e.jpg",
+    "genres": [
+      "RPG"
+    ]
+  },
+  {
+    "name": "Broken Sword - Shadow of the Templars: Reforged",
+    "released": null,
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/321/321cca342b44c01744747e1a3b1c03fb.jpg",
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Castaway Paradise",
+    "released": "2014",
+    "rating": 6.3,
+    "background_image": "https://media.rawg.io/media/screenshots/972/9728dab527fc76f573bb360f1cd437af.jpg",
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy",
+      "Simulation",
+      "Casual",
+      "Family",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Castle of Heart: Retold",
+    "released": "2025",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/24b/24bce7cdb163bf99c10349bfab370f6b.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Crash Dummy",
+    "released": "2015",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/03f/03f226be5e47d447557a5811099c6f07.jpg",
+    "genres": [
+      "Action",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Dinkum",
+    "released": null,
+    "rating": 7,
+    "background_image": "https://media.rawg.io/media/screenshots/f6f/f6f78fd14d016f11d0efa74968d4eb30.jpg",
+    "genres": [
+      "RPG",
+      "Simulation",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Dodgeball Academia",
+    "released": "2021",
+    "rating": 7.4,
+    "background_image": "https://media.rawg.io/media/screenshots/80b/80bc73e3df6e55f554dc66ebf2fc57e5.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Sports",
+      "Arcade",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Dragon Quest VII Reimagined",
+    "released": "2026",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/bff/bffdba5be1fff8265e01ab0e08d7cca8.jpg",
+    "genres": [
+      "RPG"
+    ]
+  },
+  {
+    "name": "Dungeons 3",
+    "released": "2017",
+    "rating": 6.6,
+    "background_image": "https://media.rawg.io/media/screenshots/2e2/2e256a7643dca3065b7ff1dcc4c7650d.jpg",
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Simulation"
+    ]
+  },
+  {
+    "name": "Ever Forward",
+    "released": "2020",
+    "rating": 5.4,
+    "background_image": "https://media.rawg.io/media/games/4fb/4fb5ea8bdd10568228f98c4247215615.jpg",
+    "genres": [
+      "Adventure",
+      "Strategy",
+      "Casual",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Gelly Break",
+    "released": "2018",
+    "rating": 0,
+    "background_image": null,
+    "genres": []
+  },
+  {
+    "name": "Hyperdimension Neptunia Re ; Birth1",
+    "released": "2013",
+    "rating": 6.5,
+    "background_image": "https://media.rawg.io/media/screenshots/56f/56f6a6aba11b73f49caf0ec1f8205b59.jpg",
+    "genres": [
+      "RPG",
+      "Strategy"
+    ]
+  },
+  {
+    "name": "Settlers 3: Ultimate Collection",
+    "released": "2000",
+    "rating": 8.7,
+    "background_image": "https://media.rawg.io/media/screenshots/a04/a04c2b329f2bc9fa02e6247f25d93926.jpg",
+    "genres": [
+      "Strategy"
+    ]
+  },
+  {
+    "name": "Katamari Damacy REROLL",
+    "released": "2018",
+    "rating": 8.7,
+    "background_image": "https://media.rawg.io/media/games/842/8420626eee4e070554b7c975fbd27883.jpg",
+    "genres": [
+      "Action",
+      "Casual",
+      "Puzzle"
+    ]
+  },
+  {
+    "name": "Lil Gator Game",
+    "released": "2022",
+    "rating": 8.3,
+    "background_image": "https://media.rawg.io/media/games/376/37628262db021ad21f81ec8d4b0ded03.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Shooting Stars!",
+    "released": "2015",
+    "rating": 3.8,
+    "background_image": "https://media.rawg.io/media/screenshots/137/137ba1202f0504e35127490d993ff8fa.jpeg",
+    "genres": [
+      "Action",
+      "Arcade",
+      "Casual",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Marvel Cosmic Invasion",
+    "released": "2025",
+    "rating": 8.2,
+    "background_image": "https://media.rawg.io/media/games/d38/d383be9a8e6b802295d9e6aeac901943.jpg",
+    "genres": [
+      "Action"
+    ]
+  },
+  {
+    "name": "Miraculous: Rise of the Sphinx",
+    "released": "2022",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/0e3/0e358231f9baa56f6538fd3ea7bf0a5a.jpg",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "name": "Genkai Tokki: Moero Chronicle",
+    "released": "2014",
+    "rating": 6.8,
+    "background_image": "https://media.rawg.io/media/games/e97/e97a6bbdcfe0107ca907654eec8ff67d.jpg",
+    "genres": [
+      "RPG"
+    ]
+  },
+  {
+    "name": "Monster Crown",
+    "released": "2020",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/d5d/d5d9b1d326174b0fca86303d6ebf7cd1.jpg",
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Moving Out",
+    "released": "2020",
+    "rating": 7.3,
+    "background_image": "https://media.rawg.io/media/games/726/7263e11b6bfb15abe35dcfa3b26147f5.jpg",
+    "genres": [
+      "Action",
+      "Simulation",
+      "Casual",
+      "Indie"
+    ]
+  },
+  {
+    "name": "MIRAI-Dream Trip",
+    "released": "2022",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/a74/a74b7424efaa4c0138fcc0ff1df849e8_Ck5ilXX.jpg",
+    "genres": [
+      "Adventure",
+      "Strategy"
+    ]
+  },
+  {
+    "name": "Power Pro Kun Pocket",
+    "released": null,
+    "rating": 0,
+    "background_image": null,
+    "genres": []
+  },
+  {
+    "name": "NEKOPARA Vol. 3",
+    "released": "2017",
+    "rating": 7.4,
+    "background_image": "https://media.rawg.io/media/games/c6f/c6f2042555c9c8154aa8536af1466933.jpg",
+    "genres": [
+      "Casual",
+      "Indie"
+    ]
+  },
+  {
+    "name": "RAIDOU Remastered: The Mystery of the Soulless Army",
+    "released": "2025",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/ef2/ef2ecd3ac17348aafd27f9a79090070a.jpg",
+    "genres": [
+      "Action",
+      "RPG"
+    ]
+  },
+  {
+    "name": "Return Of The Obra Dinn",
+    "released": "2018",
+    "rating": 8.7,
+    "background_image": "https://media.rawg.io/media/games/052/052f9afc7aaeea3e2c5d46eafa92c64e.jpg",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "name": "SHUTEN ORDER",
+    "released": "2025",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/e5a/e5a16259b501c816fab0b1267091990e.jpg",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "name": "Slave Zero X",
+    "released": null,
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/7a0/7a0fd45a148e69e2bd7dbcc90631a73f.jpg",
+    "genres": [
+      "Action",
+      "Arcade"
+    ]
+  },
+  {
+    "name": "Tails of Iron",
+    "released": "2021",
+    "rating": 7.8,
+    "background_image": "https://media.rawg.io/media/games/27e/27e46821c94d9f3853bb30fb1157b0ab.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Indie"
+    ]
+  },
+  {
+    "name": "The Book of Unwritten Tales 2",
+    "released": "2015",
+    "rating": 6.3,
+    "background_image": "https://media.rawg.io/media/screenshots/d75/d75b2ca9d5776c7df104ae27093f2917.jpg",
+    "genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  {
+    "name": "The Last Worker",
+    "released": "2023",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/db5/db5db4c8ab407cc92ae4bacbd094ab83.jpg",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "name": "This is the Police",
+    "released": "2016",
+    "rating": 7.8,
+    "background_image": "https://media.rawg.io/media/games/6cc/6cc68fa183b905ac9d85efb9797776f6.jpg",
+    "genres": [
+      "Adventure",
+      "Strategy",
+      "Simulation",
+      "Indie"
+    ]
+  },
+  {
+    "name": "TOKYO PSYCHODEMIC",
+    "released": "2024",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/3fc/3fc541908cfb21a68ed05f40ddfce66f.jpg",
+    "genres": [
+      "Adventure",
+      "Simulation"
+    ]
+  },
+  {
+    "name": "Tomodachi Life: Living the Dream",
+    "released": null,
+    "rating": 0,
+    "background_image": null,
+    "genres": [
+      "Simulation"
+    ]
+  },
+  {
+    "name": "Tsukihime",
+    "released": "2000",
+    "rating": 8.7,
+    "background_image": "https://media.rawg.io/media/screenshots/bbd/bbdf2945918fc39cdb81b97783ee38e0.jpg",
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+    "released": "2016",
+    "rating": 8.7,
+    "background_image": "https://media.rawg.io/media/games/c57/c57c9f8ea28b148cf991ac49c1e920f4.jpg",
+    "genres": [
+      "Adventure",
+      "Simulation"
+    ]
+  },
+  {
+    "name": "Worms Armageddon",
+    "released": "1999",
+    "rating": 8.6,
+    "background_image": "https://media.rawg.io/media/games/96a/96a48ac7487d9db9179d83170afcb16a.jpg",
+    "genres": [
+      "Strategy"
+    ]
+  },
+  {
+    "name": "Wreckfest",
+    "released": "2018",
+    "rating": 7.4,
+    "background_image": "https://media.rawg.io/media/games/ff2/ff2315fb895502efcbd40f1e5f37c170.jpg",
+    "genres": [
+      "Racing",
+      "Arcade"
+    ]
+  },
+  {
+    "name": "Zombieland: Double Tap - Road Trip",
+    "released": "2019",
+    "rating": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/2d5/2d5db7aa5b1bff427c645461b58985e7.jpeg",
+    "genres": [
+      "Action",
+      "Shooter"
     ]
   }
 ]
